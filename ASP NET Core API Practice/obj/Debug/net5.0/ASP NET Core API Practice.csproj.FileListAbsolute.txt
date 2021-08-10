@@ -1,0 +1,29 @@
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\bin\Debug\net5.0\appsettings.json
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\bin\Debug\net5.0\ASP NET Core API Practice.exe
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\bin\Debug\net5.0\ASP NET Core API Practice.deps.json
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\bin\Debug\net5.0\ASP NET Core API Practice.runtimeconfig.json
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\bin\Debug\net5.0\ASP NET Core API Practice.runtimeconfig.dev.json
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\bin\Debug\net5.0\ASP NET Core API Practice.dll
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\bin\Debug\net5.0\ref\ASP NET Core API Practice.dll
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\bin\Debug\net5.0\ASP NET Core API Practice.pdb
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\ASP NET Core API Practice.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\ASP NET Core API Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\ASP NET Core API Practice.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\ASP NET Core API Practice.AssemblyInfo.cs
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\ASP NET Core API Practice.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\ASP NET Core API Practice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\ASP NET Core API Practice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\staticwebassets\ASP NET Core API Practice.StaticWebAssets.Manifest.cache
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\staticwebassets\ASP NET Core API Practice.StaticWebAssets.xml
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\scopedcss\bundle\ASP NET Core API Practice.styles.css
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\ASP NET Core API Practice.RazorTargetAssemblyInfo.cache
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\ASP NET Core API Practice.csproj.CopyComplete
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\ASP NET Core API Practice.dll
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\ref\ASP NET Core API Practice.dll
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\ASP NET Core API Practice.pdb
+C:\Users\andre\Desktop\ASP NET Core API Practice\ASP NET Core API Practice\obj\Debug\net5.0\ASP NET Core API Practice.genruntimeconfig.cache
